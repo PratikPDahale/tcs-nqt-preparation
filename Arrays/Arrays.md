@@ -1,27 +1,66 @@
-Array1 - Non-Repeating Element [Practice Problem]
-Array2 - Program for Array Rotation [Practice Problem]
-Array3 - Equilibrium Index of an Array [Practice Problem]
-Array4 - Print array after it is right rotated K times [Practice Problem]
-Array5 - Array is a subset of another array [Practice Problem]
-Array6 - Reverse an array or string [Practice Problem]
-Array7 - Mean and median of an unsorted array [Practice Problem]
-Array8 - Smallest and second smallest elements in an array [Practice Problem]
-Array9 - Largest Element in an Array [Practice Problem]
-Array10 - Second Largest Element in an Array [Practice Problem]
-Array11 - Counting frequencies of array elements [Practice Problem]
-Array12 - Program for addition of two matrices [Practice Problem]
-Array13 - Sum of elements in a given array [Practice Problem]
-Array14 - Remove Duplicates from a Sorted Array [Practice Problem]
-Array15 - Program to check if an array is sorted or not [Practice Problem]
-Array16 - Remove duplicates from an unsorted array using Map data structure [Practice Problem]
-Array17 - Average of an array (Iterative and Recursive) [Practice Problem]
-Array18 - Find duplicates in O(n) time and O(1) extra space [Practice Problem]
-Array19 - Find maximum possible stolen value from houses [Practice Problem]
-Array20 - Replace Each Element of the Array with Its Corresponding Rank [Practice Problem]
-Array21 - Sort elements by frequency [Practice Problem]
-Array22 - Sort an array according to the order defined by another array [Practice Problem]
-Array23 - Maximum Product Subarray [Practice Problem]
-Array24 - Stock Buy and Sell – Max One Transaction Allowed [Practice Problem]
-Array25 - Maximum Consecutive Ones (or Zeros) in a Binary Array [Practice Problem]
-Array26 - Trapping Rain Water Problem [Practice Problem]
-Array27 - Jump Game - Minimum Jumps to Reach End [Practice Problem]
+# 📘 TCS NQT Preparation - Arrays
+
+This repository contains a collection of important **Array-based practice problems** for TCS NQT preparation.
+All problems are implemented in **Java** with a focus on logic building and interview readiness.
+
+---
+
+## 🧠 Topics Covered
+
+The following problems are included:
+
+### 🔢 Array Problems
+
+1. Non-Repeating Element
+2. Program for Array Rotation
+3. Equilibrium Index of an Array
+4. Print array after it is right rotated K times
+5. Array is a subset of another array
+6. Reverse an array or string
+7. Mean and median of an unsorted array
+8. Smallest and second smallest elements in an array
+9. Largest Element in an Array
+10. Second Largest Element in an Array
+11. Counting frequencies of array elements
+12. Program for addition of two matrices
+13. Sum of elements in a given array
+14. Remove Duplicates from a Sorted Array
+15. Check if an array is sorted or not
+16. Remove duplicates from an unsorted array using Map
+17. Average of an array (Iterative and Recursive)
+18. Find duplicates in O(n) time and O(1) extra space
+19. Maximum possible stolen value from houses
+20. Replace each element with its corresponding rank
+21. Sort elements by frequency
+22. Sort an array according to another array
+23. Maximum Product Subarray
+24. Stock Buy and Sell – Max One Transaction
+25. Maximum Consecutive Ones (or Zeros)
+26. Trapping Rain Water Problem
+27. Minimum Jumps to Reach End (Jump Game)
+
+---
+
+## 💻 Language Used
+
+* Java
+
+---
+
+## 🎯 Goal
+
+* Strengthen problem-solving skills
+* Prepare for coding rounds (TCS NQT & similar exams)
+* Build a strong foundation in Data Structures
+
+---
+
+## 🚀 Future Enhancements
+
+* Add String problems
+* Add LinkedList & Recursion
+* Optimize solutions with time/space complexity notes
+
+---
+
+⭐ If you find this helpful, consider giving it a star!
